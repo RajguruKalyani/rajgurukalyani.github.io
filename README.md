@@ -6,25 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <div class="container">
     <header>
         ...
-    </header>
-    <main class="container__main">
-        <!-- Left sidebar -->
-        <aside class="container__left">...</aside>
-
-        <!-- Main content -->
-        <article class="container__middle">...</article>
-
-        <!-- Right sidebar -->
-        <nav class="container__right">...</nav>
-    </main>
-    <footer>
-        ...
-    </footer>
-</div>
-.container {
-                        display: flex;
-                        flex-direction: column;
-                    }
 
 ### Markdown
 
