@@ -1,6 +1,6 @@
 ## Systems 2022
 
-Hugh Dubberly's Systems Class 2022
+### Hugh Dubberly's Systems Class 2022
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <div class="container">
