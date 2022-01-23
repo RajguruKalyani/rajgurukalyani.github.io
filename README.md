@@ -26,28 +26,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
                         flex-direction: column;
                     }
 
-                    .container__main {
-                        /* Take the remaining height */
-                        flex-grow: 1;
-
-                        /* Layout the left sidebar, main content and right sidebar */
-                        display: flex;
-                        flex-direction: row;
-                    }
-
-                    .container__left {
-                        width: 25%;
-                    }
-
-                    .container__middle {
-                        /* Take the remaining width */
-                        flex-grow: 1;
-                    }
-
-                    .container__right {
-                        width: 20%;
-                    }
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
