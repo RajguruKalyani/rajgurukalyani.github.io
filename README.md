@@ -3,6 +3,50 @@
 You can use the [editor on GitHub](https://github.com/RajguruKalyani/rajgurukalyani.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="container">
+    <header>
+        ...
+    </header>
+    <main class="container__main">
+        <!-- Left sidebar -->
+        <aside class="container__left">...</aside>
+
+        <!-- Main content -->
+        <article class="container__middle">...</article>
+
+        <!-- Right sidebar -->
+        <nav class="container__right">...</nav>
+    </main>
+    <footer>
+        ...
+    </footer>
+</div>
+.container {
+                        display: flex;
+                        flex-direction: column;
+                    }
+
+                    .container__main {
+                        /* Take the remaining height */
+                        flex-grow: 1;
+
+                        /* Layout the left sidebar, main content and right sidebar */
+                        display: flex;
+                        flex-direction: row;
+                    }
+
+                    .container__left {
+                        width: 25%;
+                    }
+
+                    .container__middle {
+                        /* Take the remaining width */
+                        flex-grow: 1;
+                    }
+
+                    .container__right {
+                        width: 20%;
+                    }
 
 ### Markdown
 
