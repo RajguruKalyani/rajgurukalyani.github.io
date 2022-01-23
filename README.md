@@ -59,8 +59,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Week 1
+- Week 2
 
 1. Numbered
 2. List
