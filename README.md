@@ -1,40 +1,36 @@
-## Systems 2022
-
-### Hugh Dubberly's Systems Class 2022
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<div class="container">
-    <header>
-        ...
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Systems 2022
-## Header 2
-### Header 3
-
-- Week 1
-- Week 2
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RajguruKalyani/rajgurukalyani.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</head>Kalyani Rajguru<head>
+<body data-new-gr-c-s-check-loaded="14.1045.0" data-gr-ext-installed="">
+    <div class="parallax"></div>
+    <div class="header">
+        <h1 style="text-align: right;">Systems Design &nbsp; </h1>
+        <h3> An archive of all of Snehal's assignments from Hugh Dubberly's class at CCA Spring 2022.
+<html lang="en"><head> </h3>
+</div>
+    <div class="contentwrapper" id="table of content">
+    <div></div>
+        <div class="toc" id="readingtoc">
+            <h2>↓ &nbsp;Reading</h2>
+            <h3> Week1</h3>
+            <h3> Week2</h3>
+            <h3> Week3</h3>
+            <h3> Week4</h3>
+            <h3> Week5</h3>
+            <h3> Week6</h3>
+            <h3> Week7</h3>
+            <h3> Week8</h3>
+            <h3> Week9</h3>
+</div>
+    <div class="toc" id="assignmenttoc">
+            <h2>↓ &nbsp;Assignment</h2>
+            <h3> Week1</h3>
+            <h3> Week2</h3>
+            <h3> Week3</h3>
+            <h3> Week4</h3>
+            <h3> Week5</h3>
+            <h3> Week6</h3>
+            <h3> Week7</h3>
+            <h3> Week8</h3>
+            <h3> Week9</h3>
+        </div>
+        <div></div>
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
