@@ -24,18 +24,30 @@ body {
   }
 
   th{
-    color: darkslategray;
+    color: #434343;
     font-family: Arial, Helvetica, sans-serif;
     font-style: normal;
    
     height: 70px;
 
   }
+  a:link { text-decoration: none; }
+
+a:visited { 
+    color: #434343;
+    text-decoration: none; }
+
+a:hover {
+    color: darkslategray;
+     text-decoration: none; }
+
+a:active { text-decoration: none; }
 
   th,td {
     text-align: left;
     padding-left: 50px;
-    
+    font-style: normal;
+    text-decoration: none;
    
   }
 
@@ -54,6 +66,7 @@ body {
   .top {
     list-style-type: none;
     margin: 0;
+    border-top: darkslategray;
     padding: 50px;
     overflow: hidden;
     background-color:  darkslategray;
